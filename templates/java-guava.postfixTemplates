@@ -1,0 +1,5 @@
+.toImmutableList : guava collect to immutable list
+    java.util.stream.Stream [com.google.common.collect.ImmutableList] → $expr$.collect(com.google.common.collect.ImmutableList.toImmutableList()) [USE_STATIC_IMPORTS]
+
+.toImmutableSet : guava collect to immutable set
+    java.util.stream.Stream [com.google.common.collect.ImmutableSet] → $expr$.collect(com.google.common.collect.ImmutableSet.toImmutableSet()) [USE_STATIC_IMPORTS]
