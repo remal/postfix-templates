@@ -1,2 +1,1 @@
-# oss-template
-Template repository for open-source projects
+Postfix templates for [Custom Postfix Templates IDEA plugin](https://plugins.jetbrains.com/plugin/9862-custom-postfix-templates).
